@@ -8,6 +8,7 @@ public class Principal {
 		System.out.println("Commit3");
 		System.out.println("Commit4");
 		System.out.println("Commit5");
+		System.out.println("Commit6 branch4");
 	}
 
 }
