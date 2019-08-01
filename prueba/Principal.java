@@ -7,6 +7,7 @@ public class Principal {
 		System.out.println("Commit2");
 		System.out.println("Feature1");
 		System.out.println("Feature1-1");
+		System.out.println("Feature1-2");
 	}
 
 }
